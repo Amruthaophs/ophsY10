@@ -1,0 +1,18 @@
+number = int(input("Enter a number"))
+number = ("total")
+
+chracter = "y"
+
+new_number = int(input("Enter a new number"))
+
+ans = ("total") + ("new_number")
+
+another_number = str(input("Do you want to add another number?" "y or n?"))
+
+
+if another_number == "y":
+  number3 =  int(input("Enter new number"))
+  
+  
+if number3 != "y":
+  print ("total")
