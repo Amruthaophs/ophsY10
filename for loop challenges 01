@@ -1,0 +1,4 @@
+Name = str(input("Enter your name"))
+
+for repeat  in range (0,3):
+   print (Name)
