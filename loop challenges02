@@ -1,0 +1,7 @@
+Name = str(input("Enter your name"))
+
+Number = int(input("Enter a number"))
+
+for repeat in range(Number):
+  print(Name)
+
