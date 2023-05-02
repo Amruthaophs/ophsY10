@@ -1,0 +1,5 @@
+w = int(input("Enter  the width of the rectangle"))
+h = int(input("Enter the height of the rectange"))
+
+area = w * h
+print(area)
