@@ -1,0 +1,35 @@
+time = int(input("How many hrs do you spend waching TV?"))
+
+if time <2:
+  print("That shouldn't rot your brain too much")
+  
+elif time<4:
+  print("Aren't you getting square eyes?")
+  
+else:
+  print("Fresh Air beats channel flicking")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
