@@ -1,0 +1,4 @@
+name  = str(input("Enter your name"))
+subj = (input(" What is your favourite subject"+name+"?"))
+
+print("I like" ,subj ,"as well")
