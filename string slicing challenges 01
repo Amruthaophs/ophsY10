@@ -1,0 +1,40 @@
+name  = str(input("Enter your name"))
+
+namelength = len(name)
+
+print("the length of your name is", namelength, "characters")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
