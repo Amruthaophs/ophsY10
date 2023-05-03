@@ -1,0 +1,27 @@
+name1= (input("Enter your first name"))
+name2 = (input("Enter your second name"))
+
+full_name = name1 + " " + name2
+ 
+full_name_l = (full_name)
+ 
+print(full_name)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
