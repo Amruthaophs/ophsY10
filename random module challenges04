@@ -1,0 +1,35 @@
+import random
+num = random.randint(1,5)
+
+user = input("pick a number")
+if user == num:
+  print("well done")
+  
+else:
+  print("your number is too high or too low, try again")
+
+user2nd = input("pick again")
+if user2nd == num:
+  print("correct")
+  
+else:
+  print("you lose")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
