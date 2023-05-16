@@ -1,0 +1,28 @@
+import random
+
+num = random.randint(1,10)
+correct == "false"
+ while correct == "false":
+    guess = print(input("guess a number"))
+   
+   
+if num == guess:
+  correct == "true"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
