@@ -1,0 +1,20 @@
+import random
+chance = ["heads", "tails"]
+
+coin = random.choice(chance)
+
+user = input("guess heads or tails")
+
+if user == coin:
+  print("you win")
+
+else:
+  print("bad luck")
+  print("it was not", user )
+
+
+
+
+
+
+
