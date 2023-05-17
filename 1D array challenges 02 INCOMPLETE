@@ -1,0 +1,10 @@
+cars =[]
+boolean =  "True"
+if boolean == True:
+  cars.append(input("Enter a car brand or press x to exit"))
+  
+if input == "x":
+  print("Exiting")
+  
+
+  
