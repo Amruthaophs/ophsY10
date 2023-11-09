@@ -1,0 +1,20 @@
+Pseudocode challenge 6 :
+Begin
+num1 = Input(“Enter a number”)
+num2 = Input(“Enter another number”)
+Sum = num1 + num2
+Product  =  num1 * num2 
+Output  = (“The sum is” , sum)
+Output = (“The product is”, product)
+End
+
+Pseudocode challenge 7:
+Begin
+Distance  = INPUT(“Enter the distance in meters”)
+Time = INPUT(“Enter the time taken”)
+Speed =  Distance / Time
+Print(“The speed is”, speed)
+End
+
+Flowchart challenge 7:
+
